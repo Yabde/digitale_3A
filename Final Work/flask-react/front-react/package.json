@@ -16,7 +16,7 @@
     "react-image-annotation": "^0.9.10",
     "react-picture-annotation": "^1.0.3",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
